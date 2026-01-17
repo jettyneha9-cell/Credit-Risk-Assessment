@@ -1,0 +1,16 @@
+loan_id,age,income,loan_amount,credit_score,employment_years,loan_status
+1,25,35000,5000,620,1,Default
+2,45,85000,20000,780,10,Fully Paid
+3,32,54000,12000,690,5,Fully Paid
+4,29,28000,7000,610,2,Default
+5,52,92000,25000,810,15,Fully Paid
+6,41,67000,15000,720,8,Fully Paid
+7,36,48000,10000,660,4,Default
+8,27,30000,6000,630,2,Default
+9,39,73000,18000,750,7,Fully Paid
+10,50,88000,22000,790,12,Fully Paid
+11,34,52000,11000,680,5,Fully Paid
+12,28,31000,8000,640,3,Default
+13,47,81000,21000,770,11,Fully Paid
+14,31,46000,9000,655,4,Default
+15,43,76000,19000,740,9,Fully Paid
