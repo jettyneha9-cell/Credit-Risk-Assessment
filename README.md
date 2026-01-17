@@ -102,3 +102,9 @@ Detailed business and technical documentation is available in the `docs/` folder
 
 ## Outcome
 The project delivers a validated credit risk assessment model that can be used to classify borrowers based on default probability and support data-driven credit approval decision.
+
+### Sample Results
+- ROC-AUC Score: ~0.80
+- Credit score and income identified as key risk drivers
+- Model demonstrates good separation between default and non-default cases
+
